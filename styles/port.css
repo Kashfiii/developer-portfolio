@@ -1,0 +1,79 @@
+{
+    mergin:0;
+    font-family: 'Open Sans', sans-serif;
+    color: white
+    
+}
+.button-primary{
+    color:azure;
+    height: 64px;
+    border-radius: 5px;
+    border: 0;
+    padding: 18px 35px;
+    background-color: darkgreen;
+}
+ul{
+    color: white;
+}
+
+/* navigation */
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+.nav-title{
+    font-weight: 300;
+    font-size: 45px;
+    color: white;
+}
+nav ul{
+    display: flex;
+    color: white;
+}
+nav li{
+    list-style-type:none;
+    margin-left: 20px;
+    color: whitesmoke;
+}
+.text-primary{
+    color: blueviolet;
+}
+/* banner styles */
+.banner{
+    margin: 0px 200px;
+    display: flex;
+    align-items: flex-start;
+
+}
+.banner-title{
+    font-weight: 600;
+    font-size: 45 px;
+}
+
+.button-secondary{
+    display:inline-block;
+    color:green;
+    height: 64px;
+    border-radius: 5px;
+    border: 0;
+    margin-left: 20px;
+    padding: 18px 35px;
+    border: darkgreen;
+}
+.header-background{
+    background: #FFF8F3;
+    background-image: url('../images/loid.png');
+    background-repeat: no-repeat;
+
+}
+
+/* about me */
+.about{
+    margin-top: 120px;
+    background-color: #FFF8F3;
+    padding: 120px 140px;
+    border-radius: 10px;
+}
+
+ 
